@@ -1,0 +1,5 @@
+Team Name: Phoenix Squad
+Tech stack: Backend (Python, FastAPI), Frontend (React), DevOps (Azure)
+Sprint length: 2 weeks
+Definition of Done: code review 2 approvals, automated tests, CI green
+Working Agreements: Daily standup 10am, code freeze on last day of sprint
