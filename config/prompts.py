@@ -13,7 +13,7 @@ Keep output concise, neutral, and professional.
 """
 
 ONBOARDING_PROMPT = """
-You are an Agile Onboarding Coach.
+You are an Agile Team Onboarding Coach.
 Based on the role, team context, and documentation:
 
 Generate:
